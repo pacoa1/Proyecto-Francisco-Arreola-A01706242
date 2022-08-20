@@ -5,19 +5,20 @@ Desplegar Menu
   Multiplicacion
   Division
 Pedir a usuario que ingrese tipo de operacion a realizar
-Si suma
+Si (suma)
 Pedir a usuario primer numero
 Pedir a usuario segundo numero
 Desplegar suma
-Si resta
+Si (resta)
 Pedir a usuario primer numero
 Pedir a usuario segundo numero
 Desplegar resta
-Si multiplica
+Si (multiplica)
 Pedir a usuario primer numero
 Pedir a usuario segundo numero
-Desplegar multiplicacion
-Si division
+Desplegar (multiplicacion)
+Si (division)
 Pedir a usuario primer numero
 Pedir a usuario segundo numero
 Desplegar division
+Fin
