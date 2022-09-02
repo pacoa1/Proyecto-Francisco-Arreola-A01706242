@@ -32,7 +32,7 @@ Sino
   Desplegar a usuario tercera pista ("El mejor jugador de este deporte es Cristiano Ronaldo")
   Pedir a usuario respuesta("Ingresa tu respuesta")
  Si respuesta = (Futbol)
-  Desplegar al usuario ("Felicidades, la tercera es la vencida")
+  Desplegar al usuario ("Felicidades, la tercera es la vencida.")
  Sino
   Desplegar a usuario ("Animo, puedes volverlo a intentar")
  
