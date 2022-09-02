@@ -13,7 +13,7 @@ Frutas
 Peliculas
 
 Deportes = (Futbol, Basquetbol, Natación)
-Frutass = (Manzana, Pera, Platano)
+Frutas = (Manzana, Pera, Platano)
 Peliculas = (Batman, Thor, Avengers)
 Vidas = 3
 
