@@ -6,16 +6,17 @@ Con esta segunda entrega, entregare la primera parte del codigo. Ya empezando a 
 # Pseudocodigo
 Inicio
 ("Bienvenido al mejor juego de ahorcado, a continuacion se desplegara un menu con tres secciones distintas y se te asignara una palabra aleatoria. No olvides que tienes tres intentos para adivinar la pregunta")
+
 Menu
 Deportes
 Frutas
 Peliculas
-\n
+
 Deportes = (Futbol, Basquetbol, Natación)
 Frutas = (Manzana, Pera, Platano)
 Peliculas = (Batman, Thor, Avengers)
 Vidas = 3
-\n
+
 Si (Deportes)
   Desplegar primera pista al usuario ("Es el deporte mas popular del mundo")  
 Pedir a usuario respuesta("Ingresa tu respuesta")
@@ -34,7 +35,7 @@ Sino
   Desplegar al usuario ("Felicidades, la tercera es la vencida.")
  Sino
   Desplegar a usuario ("Animo, puedes volverlo a intentar")
- \n
+ 
  Si (Fruta)
   Desplegar primera pista al usuario ("Es una fruta que crece de los arboles")  
 Pedir a usuario respuesta("Ingresa tu respuesta")
@@ -53,7 +54,7 @@ Sino
   Desplegar al usuario ("Felicidades, la tercera es la vencida")
  Sino
   Desplegar a usuario ("Animo, puedes volverlo a intentar")
-  \n
+  
   Si (Peliculas)
   Desplegar primera pista al usuario ("Es una pelicula de la marca Dc comics")  
 Pedir a usuario respuesta("Ingresa tu respuesta")
