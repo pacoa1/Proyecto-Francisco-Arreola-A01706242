@@ -1,7 +1,7 @@
 print("Bienvenido al mejor juego del mundo, las reglas consisten en que se tienen tres oportunidades para adivinar la respuesta correcta. Tras cada intento se desplegara una pista")
 vidas=3
 palabra = 'manzana'
-respuesta = ''
+respuesta = " "
 
 while vidas > 0 :
     fallas = 0
@@ -23,3 +23,4 @@ while vidas > 0 :
         print("Mal ahi")
 else:
     print("Nos vemos pronto")
+   
