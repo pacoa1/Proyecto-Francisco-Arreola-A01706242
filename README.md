@@ -10,7 +10,7 @@ Menu
 Deportes
 Frutas
 Peliculas
-n\
+\n
 Deportes = (Futbol, Basquetbol, Natación)
 Frutas = (Manzana, Pera, Platano)
 Peliculas = (Batman, Thor, Avengers)
@@ -53,7 +53,7 @@ Sino
   Desplegar al usuario ("Felicidades, la tercera es la vencida")
  Sino
   Desplegar a usuario ("Animo, puedes volverlo a intentar")
-  /n
+  \n
   Si (Peliculas)
   Desplegar primera pista al usuario ("Es una pelicula de la marca Dc comics")  
 Pedir a usuario respuesta("Ingresa tu respuesta")
