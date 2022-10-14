@@ -5,6 +5,7 @@ Con esta segunda entrega, entregare la primera parte del codigo. Ya empezando a 
 
 # Pseudocodigo
 Inicio
+
 ("Bienvenido al mejor juego de ahorcado, a continuacion se desplegara un menu con tres secciones distintas y se te asignara una palabra aleatoria. No olvides que tienes tres intentos para adivinar la pregunta")
 
 Menu
