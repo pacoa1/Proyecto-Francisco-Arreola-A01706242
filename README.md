@@ -10,12 +10,12 @@ Menu
 Deportes
 Frutas
 Peliculas
-
+n\
 Deportes = (Futbol, Basquetbol, Natación)
 Frutas = (Manzana, Pera, Platano)
 Peliculas = (Batman, Thor, Avengers)
 Vidas = 3
-
+\n
 Si (Deportes)
   Desplegar primera pista al usuario ("Es el deporte mas popular del mundo")  
 Pedir a usuario respuesta("Ingresa tu respuesta")
@@ -34,7 +34,7 @@ Sino
   Desplegar al usuario ("Felicidades, la tercera es la vencida.")
  Sino
   Desplegar a usuario ("Animo, puedes volverlo a intentar")
- 
+ \n
  Si (Fruta)
   Desplegar primera pista al usuario ("Es una fruta que crece de los arboles")  
 Pedir a usuario respuesta("Ingresa tu respuesta")
@@ -53,7 +53,7 @@ Sino
   Desplegar al usuario ("Felicidades, la tercera es la vencida")
  Sino
   Desplegar a usuario ("Animo, puedes volverlo a intentar")
-  
+  /n
   Si (Peliculas)
   Desplegar primera pista al usuario ("Es una pelicula de la marca Dc comics")  
 Pedir a usuario respuesta("Ingresa tu respuesta")
