@@ -23,16 +23,21 @@ Pedir a usuario respuesta("Ingresa tu respuesta")
 
 Si respuesta = (Futbol)
   Desplegar al usuario ("Felicidades, lo hiciste a la primera")
+  
 Sino
   Desplegar a usuario segunda pista ("Es un deporte que se juega con los pies")
   Pedir a usuario respuesta("Ingresa tu respuesta")
+  
 Si respuesta = (Futbol)
   Desplegar al usuario ("Felicidades, lo lograste")
+  
 Sino
   Desplegar a usuario tercera pista ("El mejor jugador de este deporte es Cristiano Ronaldo")
   Pedir a usuario respuesta("Ingresa tu respuesta")
+  
  Si respuesta = (Futbol)
   Desplegar al usuario ("Felicidades, la tercera es la vencida.")
+  
  Sino
   Desplegar a usuario ("Animo, puedes volverlo a intentar")
  
@@ -42,16 +47,21 @@ Pedir a usuario respuesta("Ingresa tu respuesta")
 
 Si respuesta = (Manzana)
   Desplegar al usuario ("Felicidades, lo hiciste a la primera")
+  
 Sino
   Desplegar a usuario segunda pista ("Hay de muchos colores, los mas comunes son el rojo, amarillo y verde")
   Pedir a usuario respuesta("Ingresa tu respuesta")
+  
 Si respuesta = (Manzana)
   Desplegar al usuario ("Felicidades, lo lograste")
+  
 Sino
   Desplegar a usuario tercera pista ("Es el logo de una marca muy famosa de electrónicos")
   Pedir a usuario respuesta("Ingresa tu respuesta")
+  
  Si respuesta = (Manzana)
   Desplegar al usuario ("Felicidades, la tercera es la vencida")
+  
  Sino
   Desplegar a usuario ("Animo, puedes volverlo a intentar")
   
@@ -61,15 +71,20 @@ Pedir a usuario respuesta("Ingresa tu respuesta")
 
 Si respuesta = (Batman)
   Desplegar al usuario ("Felicidades, lo hiciste a la primera")
+  
 Sino
   Desplegar a usuario segunda pista ("El color de su traje es negro")
   Pedir a usuario respuesta("Ingresa tu respuesta")
+  
 Si respuesta = (Batman)
   Desplegar al usuario ("Felicidades, lo lograste")
+  
 Sino
   Desplegar a usuario tercera pista ("Esta relacionado con murciélagos ")
   Pedir a usuario respuesta("Ingresa tu respuesta")
+  
  Si respuesta = (Batman)
   Desplegar al usuario ("Felicidades, la tercera es la vencida")
+  
  Sino
   Desplegar a usuario ("Animo, puedes volverlo a intentar")
