@@ -2,6 +2,11 @@
 
 Para este primer avance de proyecto, decidí realizar un juego conocido cmomo ahorcado, debido a que me parece un proyecto complejo, en el cual podré demostrar las competencias que se necesitan para este primer semestre. Además considero que también podría reflejar todo lo aprendido en clases, en los exámenes y actividades realizadas a lo largo del semestre. En esta primera entrega realizare una parte del pseudocódigo, para posteriormente empezar a programarlo como un código.
 Con esta segunda entrega, entregare la primera parte del codigo. Ya empezando a darle estructura. En esta tercera entrega, voy a definir algunas funciones para poder utilizarlas con todas las variables que quiero poner.
+Con esta tercera entrega intentare hacer el uso de funciones para poder tener un codigo complejo y no tener que hacer el uso de muchas lineas para su desarrollo.
+Con esta cuarta entrega me enfoque principalmente en esta entrega tuve que estudiar sobre if, elif y else para revisar en que partes del código tenia que usar todos y cada uno de estos elementos.
+Con esta quinta entrega en tratar de usar ciclos for y while, me parece que son bastante importantes para el juego que estoy realizando y sin estos no podria llevarlo a cabo.
+Con esta sexta entrega me enfoque en empezar a pulir un poco más el proyecto, para ppoder ir dandole una mejor forma debido a que solo faltan unas cuantas semanas para que se entregue.
+Con esta séptima entrega, me enfoque en que si funcionara mi código y que no tuviera ningun problema de compilación, agruegue listas debido a que me faltaban en el Proyecto pasado y agregué comentarios al código.
 
 # Pseudocodigo
 Inicio
