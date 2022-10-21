@@ -129,3 +129,7 @@ Sino
  Sino
  
   Desplegar a usuario ("Animo, puedes volverlo a intentar")
+
+# Instrucciones
+Descargar el archivo y correrlo en la terminal o en Thonny
+[Proyecto Final.py.zip](https://github.com/pacoa1/Avance-1-Francisco-Arreola-A01706242/files/9837207/Proyecto.Final.py.zip)
